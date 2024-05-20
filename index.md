@@ -5,14 +5,14 @@
 
 ![image](portrait.png)
 
-Core.
+## Core.
 
     What is your character’s name? Rudolph Goldleaf
     What does your character’s first name mean? nothing special
     What does your character's last name mean? nothing special
     Does your character have a title? Let's not talk about it. 
 
-Age. 23
+## Age.
 
 For help on days, months and years of the world, click the following link = Golarion-Lore-The-Spoiler-Free-Version
 
@@ -21,26 +21,26 @@ For help on days, months and years of the world, click the following link = Gola
     What day is your character’s birthday? TBD
     At what age did they become an adventurer? 22
 
-Class #1.
+## Class #1.
 
     What is your character’s class? Investigator
     Does your character enjoy their class? yes
     How did your character become their class? rudolph has always been interested in lots of things. he worked as a merchant of magical trinklets, for his employer Bill "the Brag" BloomBeam.
     Who trained your character in their class? Bill BloomBeam. Rudolph fled from the shop after a deal went sour with a shady customer who treatend to kill him.
 
-Class #2. (If using dual class) Normally dual class is gained during a session via a powerful artifact or a given boon. You should write your character assuming they do not have their 2nd class yet as they will not start playing with it.
+    Class #2. (If using dual class) Normally dual class is gained during a session via a powerful artifact or a given boon. You should write your character assuming they do not have their 2nd class yet as they will not start playing with it.
 
     What will/is your character’s 2nd class be?
     Does/Will your character enjoy their 2nd class?
 
-Race
+## Race
 
     What is your character’s Race? Halfling
     What is your character’s Sub-Race? Observant Halfling
     Has your character met other members of their race? yes
     Does your character like your race? yes
 
-Parents and Family.
+## Parents and Family.
 
     Where was your character born? unknown
     Where were you raised? 
@@ -51,7 +51,7 @@ Parents and Family.
     What did your parents do for a living? Bill sold obscure items and magical trinkets
     Do you have any other family or friends? I used to have some  drinking budies before I fled town
 
-Love.
+## Love.
 
     What is your character’s sexuality? Male
     What is your character’s marital status? single
@@ -60,7 +60,7 @@ Love.
     Is your character in love? no
     Has your character ever been in love? He used to be sweet with a local barmaid but that didnt last long.
 
-The Mind | Thoughts and Feelings.
+## The Mind | Thoughts and Feelings.
 
     What is your character’s alignment? NG
     What is your character’s moral code? 
@@ -79,7 +79,7 @@ The Mind | Thoughts and Feelings.
     Is there anything that your character hates? people who follow the rules very strict, necromancy
     Is there anything that your character fears? he's not to fond of dark magic
 
-The Body | Biological Appearance.
+## The Body | Biological Appearance.
 
     What does your character look like?
     Gender M
@@ -102,7 +102,7 @@ The Body | Biological Appearance.
     Whatever is applicable: Cock Size? Breast Size? Cock Size = 2d6 for inches. 1d10 for decimal place. If you roll 7 and 5, you get a 7.5-inch dick.
     Any aspects of your character that are unusual? 
 
-Weapons.
+## Weapons.
 
     What kind of weapons does your character fight with? rapier
         What does your character’s weapon look like? his short rapier has a rather ornamental guard. It has oak leaf ornaments. Rudolph managed to snatch this away from the shop when he fled to safety
@@ -111,7 +111,7 @@ Weapons.
         Who trained your character in using weapons? Bill
         Does your character like using weapons? Only when he has to
 
-Armour.
+## Armour.
 
     What kind of armour does your character wear? Studded leather
     What does your character’s armour look like? It's still functional but you can see that it has had better days.
@@ -119,7 +119,10 @@ Armour.
     Who added the runes to your character’s armour?
     Who trained your character in wearing armour? Bill did
     Does your character like wearing armour? 
-Magic 1. What kind of magic does your character use? 
+
+## Magic 1. 
+
+    What kind of magic does your character use? 
     Does your character like magic?
     Is your character magical?
     How is your character magical?
@@ -128,7 +131,7 @@ Magic 1. What kind of magic does your character use?
     Do you have any magical items? Staff? Wands?
     Where did you get your magical items?
 
-Spell Caster.
+## Spell Caster.
 
     Can your character cast spells?
         What tradition is your character’s magic? Arcane? Primal? Divine? Occult?
@@ -137,14 +140,14 @@ Spell Caster.
         What does your character like to do with your magic?
         What is the highest level spell slot your character has access to?
 
-Equipment.
+## Equipment.
 
     Does your character have a backpack? yes
     What does your character’s backpack look like? A green bag with 2 brown straps on it and some pockets to hold alchemical equipment
     Does your character have a bag of holding? no
     What does your character’s bag of holding look like? not applicable
 
-Food and Drink.
+## Food and Drink.
 
     What does your character like to eat? roasted chicken with prumes, figs and cheese
     What doesnt your character like to eat? patatoes
@@ -154,13 +157,11 @@ Food and Drink.
     Does your character drink alcohol? If so, how heavily? he's a social drinker
     Do they partake in Drugs? alcohol is a hard drug so I guess yes.
 
-Alignment Scale.
+## Alignment Scale.
 
     What is your character’s alignment scale? 5/ 3 (Neutral good)
 
-Backstory.
-
-Finally, what is your character’s backstory?
+## Backstory.
 
 Birth year: left on the doorstep of orphanage
 1 year: Adopted by Bill and his wife Rosa
